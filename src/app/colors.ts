@@ -1,0 +1,3 @@
+const primary = ''
+
+export { primary }
